@@ -103,4 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-/session_II-problems/data
+/session_II-problems/data/
