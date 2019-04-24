@@ -30,7 +30,7 @@ The repository is found at https://github.com/vafaei-ar/ICP-workshop-2018.git.
         ```$ jupyter notebook```
         
   4. The data is available [HERE](https://drive.google.com/file/d/1TZDu_QJ7BZ6iEt3LHgycOftNfKCmZNX0/view?usp=sharing "Google drive").
-  It may does not work a while after workshop.
+  You need to download the data and put it in session_II-problems/data directory. The link may does not work a while after workshop.
 
 
 ### Lab links
@@ -41,7 +41,7 @@ Related helps or works can be found at the following URLs:
 
 
 <hr>
-[^1] https://anaconda.org/ <\br>
+[^1] https://anaconda.org/ <br/>
 [^2] https://www.tensorflow.org/ 
 
 
