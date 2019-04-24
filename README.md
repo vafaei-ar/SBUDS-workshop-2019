@@ -1,5 +1,11 @@
 # SBUDS-workshop-2019 repository
 
+<div align="center">   
+
+<img src="./images/e1.jpg" width="200"/>
+
+</div>  
+
 ### Lab requirements
 
   1. **Linux** is recomennded as OS.
