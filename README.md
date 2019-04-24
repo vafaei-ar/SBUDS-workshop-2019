@@ -1,31 +1,30 @@
-# ICP-workshop-2018 repository
+# SBUDS-workshop-2019 repository
 
 ### Lab requirements
 
   1. **Linux** is recomennded as OS.
 
-  2. Install **TensorFlow** and all of it's requirements. You can use given help in the official website [^1].
+  2. Install **Anaconda**[^2], **TensorFlow**[^1] and **Keras** and all of it's requirements. You can use given help in the official website .
   
-  3. **Jupyter Notebook**
+  3. **Jupyter Notebook** will be used as development environment.
   
-  4. **Scipy**.
-  
-  ** It is also recomended to use a **Anaconda** distribution of python [^2]. (you can install all required packages using Aanaconda)
-
-### Installing this Repo.
+### Installing this Repository
 
 The repository is found at https://github.com/vafaei-ar/ICP-workshop-2018.git.
 
-  1. git clone from your console
+  1. git clone from your console:
 
-        ```$ git clone https://github.com/vafaei-ar/ICP-workshop-2018.git```
+        ```$ git clone https://github.com/vafaei-ar/SBUDS-workshop-2019.git```
 
-  2. Enter the workshop directory
+  2. Enter the workshop directory:
 
-        ```$ cd ICP-workshop-2018```
+        ```$ cd SBUDS-workshop-2019```
 
-  2. Run jupyter notebook...
+  3. Run jupyter notebook using:
         ```$ jupyter notebook```
+        
+  4. The data is available [HERE](https://drive.google.com/file/d/1TZDu_QJ7BZ6iEt3LHgycOftNfKCmZNX0/view?usp=sharing "Google drive").
+  It may does not work a while after workshop.
 
 
 ### Lab links
@@ -36,6 +35,7 @@ Related helps or works can be found at the following URLs:
 
 
 <hr>
-[^1] https://www.tensorflow.org/
-[^2] https://anaconda.org/
+[^1] https://anaconda.org/ <\br>
+[^2] https://www.tensorflow.org/ 
+
 
