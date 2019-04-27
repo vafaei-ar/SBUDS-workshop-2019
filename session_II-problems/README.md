@@ -1,4 +1,4 @@
-ICP-workshop-2018
+SBUDS-workshop-2019
 =======
 
 ## Session II-problems:
